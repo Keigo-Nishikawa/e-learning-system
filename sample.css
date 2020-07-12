@@ -1,0 +1,234 @@
+body {
+  margin: 0 auto;
+  min-height: 100vh;
+  display:flex;
+  flex-direction:column;
+}
+header {
+  height:80px;
+  width:100%;
+  float:left;
+  position:fixed;
+  background-color: white;
+}
+
+
+.header-logo {
+  width:100px;
+  height:70px;
+  float:left;
+  margin-right: 60px;
+}
+.header_lavel{
+text-align: center;
+width :10%;
+display:inline-block;
+line-height:80px;
+font-size:14px;
+color: black;
+text-decoration: none;
+}
+.header_lavel:hover{
+  background-color:#f5f5f5;
+}
+
+
+main {
+  flex: 1;
+  background-color:aqua;
+  padding-top:80px;
+  height:1500px;
+  width:100%;
+  display: block;
+  float:left;
+}
+
+.math{
+ margin-left: 40px;
+ margin-top:50px;
+ display:inline-block;
+ width:25%;
+ height:20%;
+ background-color: tomato;
+ text-align: center;
+ text-decoration: none;
+ font-size: 20px;
+ font-family:  Courier;
+}
+.math_logo{
+  width:100%;
+  height:80%;
+}
+.math:hover{
+  background-color:#FF6699;
+
+}
+.english{
+  margin-left: 40px;
+  margin-top:50px;
+  display:inline-block;
+  width:25%;
+  height:20%;
+  background-color: tomato;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  font-family:  Courier;
+}
+.english_logo{
+  width:100%;
+  height:80%;
+}
+.english:hover{
+  background-color:#FF6699;
+
+}
+
+.physical{
+  margin-left: 40px;
+  margin-top:50px;
+  display:inline-block;
+  width:25%;
+  height:20%;
+  background-color: tomato;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  font-family:  Courier;
+}
+.physical_logo{
+  width:100%;
+  height:80%;
+}
+.physical:hover{
+  background-color:#FF6699;
+
+}
+.physical:after{
+  content:"\000A";
+  white-space: wrap;
+}
+.japanese{
+  margin-left: 40px;
+  margin-top:50px;
+  display:inline-block;
+  width:25%;
+  height:20%;
+  background-color: tomato;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  font-family:  Courier;
+}
+.japanese_logo{
+  width:100%;
+  height:80%;
+}
+.japanese:hover{
+  background-color:#FF6699;
+
+}
+.geography{
+  margin-left: 40px;
+  margin-top:50px;
+  display:inline-block;
+  width:25%;
+  height:20%;
+  background-color: tomato;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  font-family:  Courier;
+}
+.geography_logo{
+  width:100%;
+  height:80%;
+}
+.geography:hover{
+  background-color:#FF6699;
+
+}
+.chemistry{
+  margin-left: 40px;
+  margin-top:50px;
+  display:inline-block;
+  width:25%;
+  height:20%;
+  background-color: tomato;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  font-family:  Courier;
+}
+.chemistry_logo{
+  width:100%;
+  height:80%;
+}
+.chemistry:hover{
+  background-color:#FF6699;
+
+}
+.japanesehistory{
+  margin-left: 40px;
+  margin-top:50px;
+  display:inline-block;
+  width:25%;
+  height:20%;
+  background-color: tomato;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  font-family:  Courier;
+}
+.japanesehistory_logo{
+  width:100%;
+  height:80%;
+}
+.japanesehistory:hover{
+  background-color:#FF6699;
+
+}
+.worldhistory{
+  margin-left: 40px;
+  margin-top:50px;
+  display:inline-block;
+  width:25%;
+  height:20%;
+  background-color: tomato;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  font-family:  Courier;
+}
+.worldhistory_logo{
+  width:100%;
+  height:80%;
+}
+.worldhistory:hover{
+  background-color:#FF6699;
+
+}
+.biology{
+  margin-left: 40px;
+  margin-top:50px;
+  display:inline-block;
+  width:25%;
+  height:20%;
+  background-color: tomato;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  font-family:  Courier;
+}
+.biology_logo{
+  width:100%;
+  height:80%;
+}
+.biology:hover{
+  background-color:#FF6699;
+
+}
+footer {
+    height: 100px;
+  background-color:black;
+}
