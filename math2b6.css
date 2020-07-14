@@ -55,8 +55,12 @@ main {
   height:90%;
   display:block;
 }
+.t{
+  font-size:40px;
+  color:red;
+}
 .title{
-  font-size:80px;
+  font-size:40px;
   text-decoration:none;
   margin-left:80px;
 
